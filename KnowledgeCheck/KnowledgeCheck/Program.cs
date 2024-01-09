@@ -22,7 +22,7 @@
             recordList.Add(catFood);
         }
 
-        // Print out the list of records
+        // Struggling to get this to work with user input
         foreach (var catFood in recordList)
         {
             Console.WriteLine(catFood.ToString());
@@ -36,5 +36,5 @@ class Product
 }
 class CatFood : Product
 {
-    // This would be properties that are specific to cat food if that was necessary
+    public double WeightPounds { get; set; }
 }
