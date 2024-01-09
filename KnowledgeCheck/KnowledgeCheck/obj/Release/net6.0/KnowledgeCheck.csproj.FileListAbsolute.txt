@@ -1,0 +1,4 @@
+C:\Users\iantp\Documents\codeLouisville\WeekTwoCheck\KnowledgeCheck\KnowledgeCheck\obj\Release\net6.0\KnowledgeCheck.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\iantp\Documents\codeLouisville\WeekTwoCheck\KnowledgeCheck\KnowledgeCheck\obj\Release\net6.0\KnowledgeCheck.AssemblyInfoInputs.cache
+C:\Users\iantp\Documents\codeLouisville\WeekTwoCheck\KnowledgeCheck\KnowledgeCheck\obj\Release\net6.0\KnowledgeCheck.AssemblyInfo.cs
+C:\Users\iantp\Documents\codeLouisville\WeekTwoCheck\KnowledgeCheck\KnowledgeCheck\obj\Release\net6.0\KnowledgeCheck.csproj.CoreCompileInputs.cache

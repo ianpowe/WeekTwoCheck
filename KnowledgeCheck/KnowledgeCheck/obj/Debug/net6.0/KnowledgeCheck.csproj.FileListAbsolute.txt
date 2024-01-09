@@ -1,0 +1,14 @@
+C:\Users\iantp\Documents\codeLouisville\WeekTwoCheck\KnowledgeCheck\KnowledgeCheck\obj\Debug\net6.0\KnowledgeCheck.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\iantp\Documents\codeLouisville\WeekTwoCheck\KnowledgeCheck\KnowledgeCheck\obj\Debug\net6.0\KnowledgeCheck.AssemblyInfoInputs.cache
+C:\Users\iantp\Documents\codeLouisville\WeekTwoCheck\KnowledgeCheck\KnowledgeCheck\obj\Debug\net6.0\KnowledgeCheck.AssemblyInfo.cs
+C:\Users\iantp\Documents\codeLouisville\WeekTwoCheck\KnowledgeCheck\KnowledgeCheck\obj\Debug\net6.0\KnowledgeCheck.csproj.CoreCompileInputs.cache
+C:\Users\iantp\Documents\codeLouisville\WeekTwoCheck\KnowledgeCheck\KnowledgeCheck\bin\Debug\net6.0\KnowledgeCheck.exe
+C:\Users\iantp\Documents\codeLouisville\WeekTwoCheck\KnowledgeCheck\KnowledgeCheck\bin\Debug\net6.0\KnowledgeCheck.deps.json
+C:\Users\iantp\Documents\codeLouisville\WeekTwoCheck\KnowledgeCheck\KnowledgeCheck\bin\Debug\net6.0\KnowledgeCheck.runtimeconfig.json
+C:\Users\iantp\Documents\codeLouisville\WeekTwoCheck\KnowledgeCheck\KnowledgeCheck\bin\Debug\net6.0\KnowledgeCheck.dll
+C:\Users\iantp\Documents\codeLouisville\WeekTwoCheck\KnowledgeCheck\KnowledgeCheck\bin\Debug\net6.0\KnowledgeCheck.pdb
+C:\Users\iantp\Documents\codeLouisville\WeekTwoCheck\KnowledgeCheck\KnowledgeCheck\obj\Debug\net6.0\KnowledgeCheck.dll
+C:\Users\iantp\Documents\codeLouisville\WeekTwoCheck\KnowledgeCheck\KnowledgeCheck\obj\Debug\net6.0\refint\KnowledgeCheck.dll
+C:\Users\iantp\Documents\codeLouisville\WeekTwoCheck\KnowledgeCheck\KnowledgeCheck\obj\Debug\net6.0\KnowledgeCheck.pdb
+C:\Users\iantp\Documents\codeLouisville\WeekTwoCheck\KnowledgeCheck\KnowledgeCheck\obj\Debug\net6.0\KnowledgeCheck.genruntimeconfig.cache
+C:\Users\iantp\Documents\codeLouisville\WeekTwoCheck\KnowledgeCheck\KnowledgeCheck\obj\Debug\net6.0\ref\KnowledgeCheck.dll
